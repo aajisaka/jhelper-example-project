@@ -1,8 +1,9 @@
-#include <iostream>
+#include "../library/common.hpp"
 
 class %ClassName% {
 public:
-	void solve(std::istream& in, std::ostream& out) {
+	void solve(istream& cin, ostream& cout) {
+      SPEED;
 
 	}
 };
